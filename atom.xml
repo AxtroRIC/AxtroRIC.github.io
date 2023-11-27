@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://axtroric.github.io</id>
+    <title>AxtroXIA 14</title>
+    <updated>2023-11-27T17:09:04.771Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://axtroric.github.io"/>
+    <link rel="self" href="https://axtroric.github.io/atom.xml"/>
+    <subtitle>One day or Day One</subtitle>
+    <logo>https://axtroric.github.io/images/avatar.png</logo>
+    <icon>https://axtroric.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, AxtroXIA 14</rights>
+    <entry>
+        <title type="html"><![CDATA[Karting Diary]]></title>
+        <id>https://axtroric.github.io/post/karting-diary/</id>
+        <link href="https://axtroric.github.io/post/karting-diary/">
+        </link>
+        <updated>2023-11-25T15:49:04.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://axtroric.github.io/post-images/1700927578960.jpg" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1700928295161.jpg" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1700928298972.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2302 D2 Group15 Project]]></title>
+        <id>https://axtroric.github.io/post/2302-d2-group15-project/</id>
+        <link href="https://axtroric.github.io/post/2302-d2-group15-project/">
+        </link>
+        <updated>2023-11-25T15:38:29.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://axtroric.github.io/post-images/1701104668713.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104672512.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104675536.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104683899.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104691260.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104697198.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104701620.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104708381.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104714926.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104755508.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104804413.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104833392.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104839654.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104845011.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104848969.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104852717.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104857451.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104862519.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104878028.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104882701.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104888620.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104895185.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104899603.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104912497.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104916816.png" alt="" loading="lazy"><br>
+<img src="https://axtroric.github.io/post-images/1701104926159.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
